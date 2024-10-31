@@ -33,9 +33,9 @@ Soy un **desarrollador web autodidacta** con una pasión por la creación de exp
 ## 📊 **Estadísticas en GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwingx&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx&theme=transparent&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx&theme=transparent&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwing-dev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwing-dev&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwing-dev&theme=transparent&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
