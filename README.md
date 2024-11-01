@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Herwingx
+# 👋 ¡Hola! Soy Herwing
 
 Soy un **desarrollador web autodidacta** con una pasión por la creación de experiencias digitales innovadoras. Mi viaje en el mundo del desarrollo comenzó con **JavaScript**, y desde entonces he estado explorando y dominando tecnologías y herramientas para construir aplicaciones web de vanguardia.
 
@@ -33,9 +33,9 @@ Soy un **desarrollador web autodidacta** con una pasión por la creación de exp
 ## 📊 **Estadísticas en GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwingxdev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingxdev&theme=transparent&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingxdev&theme=transparent&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx-dev&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=transparent&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
