@@ -44,25 +44,9 @@ Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por e
 *Nota: Si alguno de los proyectos tiene como base tutoriales o plantillas es importante incluir el enlace original para dar reconocimiento al autor original.*
  -->
 ##  Estadísticas de GitHub
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
-
-  <p align="left" style="margin: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 40%; max-width: 400px;">
-  </p>
-
-  <p align="left" style="margin: 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" style="width: 40%; max-width: 400px;">
-  </p>
-
-  <p align="left" style="margin: 0; grid-column: 2; grid-row: 1 / span 2;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&layout=pie&theme=algolia&hide_border=true" alt="Top Languages" style="width: 40%; max-width: 400px;">
-  </p>
-
-</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&text_color=ffffff&icon_color=2dde98" alt="GitHub Stats" style="width: 40%; max-width: 400px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" style="width: 41%; max-width: 400px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" style="width: 43%; max-width: 400px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=2dde98" alt="Top Languages">
 </p>
 
