@@ -55,7 +55,7 @@ Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por e
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&layout=pie&theme=algolia&hide_border=true" alt="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&layout=pie&theme=algolia&hide_border=true" alt="Top Languages">
 </p>
 
 
