@@ -12,6 +12,8 @@ Soy un desarrollador web junior autodidacta, con una sólida base en HTML, CSS y
 
 **Herramientas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+
 ## 🚀 Proyectos Destacados
 
 Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por el desarrollo web:
@@ -44,9 +46,9 @@ Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por e
 ##  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=herwingx-dev&theme=tokyonight" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=tokyonight&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=algolia&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ## 🤝 Contacto
