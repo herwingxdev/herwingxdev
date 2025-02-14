@@ -46,8 +46,15 @@ Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por e
 ##  Estadísticas de GitHub
 
 <p align="center">
-  <img with="90%" src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak"/>
+  <a href="https://github.com/herwingx-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/herwingx-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=algolia&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
