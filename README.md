@@ -45,8 +45,8 @@ Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por e
  -->
 ##  Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&text_color=ffffff&icon_color=2dde98" alt="GitHub Stats" style="width: 41%; max-width: 400px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" style="width: 43%; max-width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&text_color=ffffff&icon_color=2dde98" alt="GitHub Stats" style="width: 44%; max-width: 400px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" style="width: 46%; max-width: 400px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=transparent&hide_border=true&layout=compact&text_color=ffffff&title_color=2dde98" alt="Top Languages">
 </p>
 
