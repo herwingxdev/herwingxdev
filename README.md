@@ -1,6 +1,7 @@
-# Hola soy Eduardo Macías. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/></p>
+<h1 align="center"> Hola soy Eduardo Macías. </h1>
 
-Desarrollador Web Junior | Aspirante a Full Stack Developer 🚀
+<p align="center">Desarrollador Web Junior | Aspirante a Full Stack Developer 😵</p>
 
 ## 👨🏽‍💻 Sobre Mí
 
@@ -49,7 +50,7 @@ Aquí hay algunos proyectos que demuestran mi enfoque actual y mi interés por e
  -->
 ##  Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1D242B&title_color=d1d7e0&icon_color=347d39&text_color=d1d7e0&ring_color=347d39&card_width=400" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=herwingx-dev&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1D242B&title_color=d1d7e0&icon_color=347d39&text_color=d1d7e0&ring_color=347d39&card_width=400&custom_title=%20" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=herwingx-dev&theme=algolia&hide_border=true&short_numbers=true&exclude_days=Sun&&background=1D242B&title_color=FAFAFA&fire=FF7800&ring=FF7800&card_width=400&stroke=FAFAFAc4&sideNums=347d39&currStreakLabel=d1d7e0&currStreakNum=FF7800&sideLabels=d1d7e0" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwingx-dev&theme=algolia&hide_border=true&layout=compact&bg_color=1D242B&title_color=d1d7e0&card_width=600&text_bold=true" alt="Top Languages">
 </p>
