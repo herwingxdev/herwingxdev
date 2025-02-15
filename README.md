@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/></p>
 <h1 align="center"> Hola soy Eduardo Macías. </h1>
 
-<p align="center">Desarrollador Web Junior | Aspirante a Full Stack Developer 😵</p>
+<p align="center">Developer Web Jr | Aspirante a Full Stack Developer 😵</p>
 
 ## 👨🏽‍💻 Sobre Mí
 
